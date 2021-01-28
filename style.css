@@ -20,3 +20,27 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.cata1,.cata2, .cata3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cata1 {
+    background-color: orange;
+   
+}
+.cata2 {
+    background-color: orchid;
+}
+.cata3 {
+    background-color: cyan;
+}
+.card-border{
+    border: none;
+    box-shadow:  5px 5px 10px lightgray;
+}
